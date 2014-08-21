@@ -1,6 +1,6 @@
 ---
 title       : A honking title
-subtitle    : Submarines
+subtitle    : Submarines and Airplanes
 author      : Mike Wise
 job         : gotta have one
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
@@ -21,7 +21,7 @@ knit        : slidify::knit2slides
 
 ## Slide 2
 
-Here is content for slide 2.
+Here is content for slide 2. Really
 
 ---
 ## Slide 3
@@ -37,10 +37,5 @@ Here is content for slide 4.
 ## Slide 5
 
 Here is content for slide 5.
-
----
-## Slide 6
-
-Here is content for slide 6.
 
 ---
