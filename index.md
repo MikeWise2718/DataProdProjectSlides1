@@ -26,7 +26,7 @@ Here is content for slide 2. Really
 ---
 ## Slide 3
 
-Here is content for slide 3.
+Here is content for slide 3. Really
 
 ---
 ## Slide 4
